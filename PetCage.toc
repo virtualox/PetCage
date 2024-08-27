@@ -8,5 +8,6 @@ PetCage.lua
 
 ## X-Contributors: virtualox
 ## X-Curse-Project-ID: petcage
+## X-Wago-ID: O67jL0N3
 ## X-GitHub-Repo: virtualox/PetCage
 ## X-Localization: enUS, frFR, deDE, itIT, koKR, zhCN, zhTW, ruRU, esES, esMX, ptBR
