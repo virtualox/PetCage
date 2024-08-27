@@ -6,7 +6,7 @@
 ## SavedVariables: PetCageEnabled
 PetCage.lua
 
-## X-Contributors: virtualox
+## X-Contributors: VirtualOx
 ## X-Curse-Project-ID: 1091727
 ## X-Wago-ID: O67jL0N3
 ## X-GitHub-Repo: virtualox/PetCage
