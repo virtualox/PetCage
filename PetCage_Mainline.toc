@@ -1,0 +1,13 @@
+## Interface: 110002
+## Title: PetCage
+## Notes: Automatically cage duplicate battle pets!
+## Author: VirtualOx
+## Version: 1.0.1
+## SavedVariables: PetCageEnabled
+PetCage.lua
+
+## X-Contributors: virtualox
+## X-Curse-Project-ID: 1091727
+## X-Wago-ID: O67jL0N3
+## X-GitHub-Repo: virtualox/PetCage
+## X-Localization: enUS, frFR, deDE, itIT, koKR, zhCN, zhTW, ruRU, esES, esMX, ptBR
