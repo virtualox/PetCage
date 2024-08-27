@@ -1,8 +1,8 @@
 ## Interface: 110002
 ## Title: PetCage
 ## Notes: Automatically cage duplicate battle pets!
-## Author: virtualox
-## Version: 1.0.0
+## Author: VirtualOx
+## Version: 1.0.1
 ## SavedVariables: PetCageEnabled
 PetCage.lua
 
