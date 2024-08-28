@@ -2,8 +2,10 @@
 ## Title: PetCage
 ## Notes: Automatically cage duplicate battle pets!
 ## Author: VirtualOx
-## Version: 1.0.1
+## Version: 1.0.2
 ## SavedVariables: PetCageEnabled
+## RequiredDeps: Blizzard_Collections
+
 PetCage.lua
 
 ## X-Contributors: VirtualOx
