@@ -196,8 +196,6 @@ L_PETCAGE_COMMANDS_TOGGLE = {
 	["ptBR"] = "Colocar todos os mascotes duplicados na gaiola.",
 };
 
--- Rest of the script remains the same...
-
 -- Function to get localized strings
 function PetCage_GetLocalizedString(strings)
 	return strings[GetLocale()] or strings["enUS"] or "Unknown";
