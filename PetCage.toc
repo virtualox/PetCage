@@ -1,8 +1,8 @@
-## Interface: 110002
+## Interface: 110002, 110005
 ## Title: PetCage
 ## Notes: Automatically cage duplicate battle pets!
 ## Author: VirtualOx
-## Version: 1.0.2
+## Version: 1.0.3
 ## SavedVariables: PetCageEnabled
 ## RequiredDeps: Blizzard_Collections
 
